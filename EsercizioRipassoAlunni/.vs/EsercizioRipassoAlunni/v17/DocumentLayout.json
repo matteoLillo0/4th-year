@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matteo.angiolillo\\source\\repos\\EsercizioRipassoAlunni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1648F9-F599-4B15-AD3D-C628B2A81580}|EsercizioRipassoAlunni\\EsercizioRipassoAlunni.csproj|c:\\users\\matteo.angiolillo\\source\\repos\\esercizioripassoalunni\\esercizioripassoalunni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1648F9-F599-4B15-AD3D-C628B2A81580}|EsercizioRipassoAlunni\\EsercizioRipassoAlunni.csproj|solutionrelative:esercizioripassoalunni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1648F9-F599-4B15-AD3D-C628B2A81580}|EsercizioRipassoAlunni\\EsercizioRipassoAlunni.csproj|c:\\users\\matteo.angiolillo\\source\\repos\\esercizioripassoalunni\\esercizioripassoalunni\\alunno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1648F9-F599-4B15-AD3D-C628B2A81580}|EsercizioRipassoAlunni\\EsercizioRipassoAlunni.csproj|solutionrelative:esercizioripassoalunni\\alunno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alunno.cs",
+              "DocumentMoniker": "C:\\Users\\matteo.angiolillo\\source\\repos\\EsercizioRipassoAlunni\\EsercizioRipassoAlunni\\Alunno.cs",
+              "RelativeDocumentMoniker": "EsercizioRipassoAlunni\\Alunno.cs",
+              "ToolTip": "C:\\Users\\matteo.angiolillo\\source\\repos\\EsercizioRipassoAlunni\\EsercizioRipassoAlunni\\Alunno.cs",
+              "RelativeToolTip": "EsercizioRipassoAlunni\\Alunno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:28:41.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matteo.angiolillo\\source\\repos\\EsercizioRipassoAlunni\\EsercizioRipassoAlunni\\Program.cs",
+              "RelativeDocumentMoniker": "EsercizioRipassoAlunni\\Program.cs",
+              "ToolTip": "C:\\Users\\matteo.angiolillo\\source\\repos\\EsercizioRipassoAlunni\\EsercizioRipassoAlunni\\Program.cs",
+              "RelativeToolTip": "EsercizioRipassoAlunni\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwEMAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:28:13.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
