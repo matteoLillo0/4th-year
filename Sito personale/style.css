@@ -1,9 +1,13 @@
+/* Matteo Angiolillo 4°H 2025-02-14 Realizzare un sito curriculum */
+
 body {
+    margin: 0; 
+    padding: 0;
     background-color: #131010;
     background-image: url('https://i.redd.it/yeue3ydrqc1c1.gif');
     color: #F2EFE7;
     font-family: monospace;
-    text-shadow: 2px 2px 2px #23486A;
+    text-shadow: 1px 1px 1px #23486A;
     justify-content: center;
 }
 
@@ -27,7 +31,7 @@ a:hover{
     max-width: fit-content;
     text-align: center;
     box-shadow: 5px 5px 8px #23486A;
-    margin-top: 130px;
+    margin-top: 180px;
 }
 
 .other-pages{
@@ -57,7 +61,7 @@ a:hover{
 
 .container {    
     display: flex;
-    margin-top: 0px;
+    margin-top: 110px;
     width: 100%;
     height: 100%;
     justify-content: center;
@@ -66,8 +70,7 @@ a:hover{
 
 .main-article {
     width: 80%;
-    border-radius: 20px;
-    margin: 15px;
+    border-radius: 10px;
     padding: 20px;
     background-color: rgb(107, 201, 218);
     box-shadow: 5px 5px 8px #23486A;
@@ -122,6 +125,8 @@ td {
     
 }
 
+/* Lavoro */
+
 .lavoro{
     display: inline-block;
     background-color: rgb(107, 201, 218);
@@ -133,27 +138,82 @@ td {
     justify-content: center;
 }
 
-#lavoro-kfc{  
-    position: relative;
-    right: 500px;
-    left: 0px;
-    height: 70px;
-    width: 70px;
-    display: inline-block;
-}
-
-#lavoro-trattore{  
-    position: relative;
-    right: 0px;
-    left: 500px;
-    height: 70px;
-    width: 70px;
-    display: inline-block;
-}
-
 .lavoro h1{
     display: inline-block; 
     position: relative;
-    bottom: 20px;
-    left: 250px;
+    left: 330px;
+    
+}
+
+footer {
+    position: absolute;
+    text-align: center;    
+    background-color: rgb(107, 201, 218);
+    color: rgb(221, 221, 221);
+    padding: 3px;
+    bottom: 0;
+    width: 99.7%;
+  } 
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(107, 201, 218);
+    justify-content: center;
+  }
+  
+.nav li {
+    float: left;
+  }
+  
+.nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 24px 24px;
+    text-decoration: none;
+  }
+  
+/* cambia colore quando sopra cursore */
+
+.nav li a:hover {
+    background-color: #23486A;
+  }
+
+/* Interessi */
+
+.div-int{
+    display: inline-block;
+    margin: 10px;
+    width: fit-content;
+    text-align: left;
+    align-items: center;
+    height: fit-content;
+    
+}
+.cont-int{
+    display: inline-block;
+    background-color: rgb(107, 201, 218);
+    padding: 1% 2%;
+    width: auto;
+    text-align: center;
+    box-shadow: 5px 5px 8px #23486A;
+    margin-top: 40px;
+}
+.single-int{
+    display:block;
+    height: fit-content;
+}
+
+/* hobby */
+
+#hobby-lett{
+    display: inline-block;
+    position: relative;
+    top: -40px;
+    text-align: left;
+    padding: 40px;
+    padding-bottom: 0px;
 }
