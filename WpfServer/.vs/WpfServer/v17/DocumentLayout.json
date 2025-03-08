@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matteo.angiolillo\\source\\repos\\WpfServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{498FEC11-5685-4ED1-8BF1-1CDA1B5AD855}|WpfServer\\WpfServer.csproj|C:\\Users\\matteo.angiolillo\\source\\repos\\WpfServer\\wpfserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498FEC11-5685-4ED1-8BF1-1CDA1B5AD855}|WpfServer\\WpfServer.csproj|solutionrelative:wpfserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498FEC11-5685-4ED1-8BF1-1CDA1B5AD855}|WpfServer\\WpfServer.csproj|C:\\Users\\matteo.angiolillo\\source\\repos\\WpfServer\\wpfserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{498FEC11-5685-4ED1-8BF1-1CDA1B5AD855}|WpfServer\\WpfServer.csproj|solutionrelative:wpfserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F375FA-28EB-41AF-A3B4-9A1FA08954C0}|WpfClient\\WpfClient.csproj|C:\\Users\\matteo.angiolillo\\source\\repos\\WpfServer\\wpfclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F375FA-28EB-41AF-A3B4-9A1FA08954C0}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F375FA-28EB-41AF-A3B4-9A1FA08954C0}|WpfClient\\WpfClient.csproj|c:\\users\\matteo.angiolillo\\source\\repos\\wpfserver\\wpfclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6F375FA-28EB-41AF-A3B4-9A1FA08954C0}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\matteo.angiolillo\\source\\repos\\WpfServer\\WpfClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\matteo.angiolillo\\source\\repos\\WpfServer\\WpfClient\\MainWindow.xaml",
+              "RelativeToolTip": "WpfClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T09:01:51.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matteo.angiolillo\\source\\repos\\WpfServer\\WpfClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\matteo.angiolillo\\source\\repos\\WpfServer\\WpfClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfClient\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:01:50.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\matteo.angiolillo\\source\\repos\\WpfServer\\WpfServer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfServer\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\matteo.angiolillo\\source\\repos\\WpfServer\\WpfServer\\MainWindow.xaml",
+              "RelativeToolTip": "WpfServer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T08:11:49.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matteo.angiolillo\\source\\repos\\WpfServer\\WpfServer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfServer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\matteo.angiolillo\\source\\repos\\WpfServer\\WpfServer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfServer\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAASwF8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:11:49.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

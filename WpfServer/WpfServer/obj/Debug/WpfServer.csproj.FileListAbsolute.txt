@@ -1,0 +1,15 @@
+C:\Users\matteo.angiolillo\source\repos\WpfServer\WpfServer\bin\Debug\WpfServer.exe.config
+C:\Users\matteo.angiolillo\source\repos\WpfServer\WpfServer\bin\Debug\WpfServer.exe
+C:\Users\matteo.angiolillo\source\repos\WpfServer\WpfServer\bin\Debug\WpfServer.pdb
+C:\Users\matteo.angiolillo\source\repos\WpfServer\WpfServer\obj\Debug\WpfServer.csproj.AssemblyReference.cache
+C:\Users\matteo.angiolillo\source\repos\WpfServer\WpfServer\obj\Debug\MainWindow.g.cs
+C:\Users\matteo.angiolillo\source\repos\WpfServer\WpfServer\obj\Debug\App.g.cs
+C:\Users\matteo.angiolillo\source\repos\WpfServer\WpfServer\obj\Debug\WpfServer_MarkupCompile.cache
+C:\Users\matteo.angiolillo\source\repos\WpfServer\WpfServer\obj\Debug\WpfServer_MarkupCompile.lref
+C:\Users\matteo.angiolillo\source\repos\WpfServer\WpfServer\obj\Debug\MainWindow.baml
+C:\Users\matteo.angiolillo\source\repos\WpfServer\WpfServer\obj\Debug\WpfServer.g.resources
+C:\Users\matteo.angiolillo\source\repos\WpfServer\WpfServer\obj\Debug\WpfServer.Properties.Resources.resources
+C:\Users\matteo.angiolillo\source\repos\WpfServer\WpfServer\obj\Debug\WpfServer.csproj.GenerateResource.cache
+C:\Users\matteo.angiolillo\source\repos\WpfServer\WpfServer\obj\Debug\WpfServer.csproj.CoreCompileInputs.cache
+C:\Users\matteo.angiolillo\source\repos\WpfServer\WpfServer\obj\Debug\WpfServer.exe
+C:\Users\matteo.angiolillo\source\repos\WpfServer\WpfServer\obj\Debug\WpfServer.pdb
