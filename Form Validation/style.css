@@ -1,0 +1,39 @@
+/* Matteo Angiolillo 4°H 2025-03-21 testo della consegna su "Consegna.txt" */
+/* Stile per il modulo */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* container content */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.error {
+    color: red;
+    font-size: 0.875rem;
+    display: none; /* messaggi nascosti all'inizio */
+}
+
+#confirmation {
+    display: none; /* conferma nascosta all'inizio */
+}
+
+/* stile pulsanti */
+.btn {
+    margin-right: 10px;
+}
+
+/* footer */
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }

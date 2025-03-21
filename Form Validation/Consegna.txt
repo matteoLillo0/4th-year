@@ -1,0 +1,30 @@
+Nome e cognome di persona
+
+- controllare i caratteri validi (es. numeri e simboli no)
+- Lunghezza minima e massima 
+
+Data di nascita
+
+- verificare il formato 
+- verificare giorno mese e anno siano compresi in un intervallo corretto
+- La data compresa in un intervallo plausibile (la persona sia viva) 
+
+Email
+
+- verificare il formato
+- caratteri consentiti
+- validità del dominio  (opzionale)
+
+Nome utente
+
+- Lunghezza
+- Caratteri consentiti
+
+Password
+
+- lunghezza minima
+- Combinazione di caratteri
+	-deve includere maiuscole e minuscole 
+	-deve contenere almeno un numero
+
+Alla fine rinnovare il form con i dati inseriti e validati poi chiedere una conferma definitiva all'utente

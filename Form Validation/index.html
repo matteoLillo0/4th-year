@@ -1,0 +1,84 @@
+<!-- Matteo Angiolillo 4°H 2025-03-21 testo della consegna su "Consegna.txt"-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Validation</title>
+    <!-- Mio stile -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="text-center">Modulo di Registrazione</h2>
+        <form id="registrationForm">
+            <!-- nome e cognome -->
+            <div class="mb-3">
+                <label for="name" class="form-label">Nome e Cognome</label>
+                <input type="text" class="form-control" id="name" name="name" required>
+                <div class="error" id="nameError"></div>
+            </div>
+    
+            <!-- data di nascita -->
+            <div class="mb-3">
+                <label for="birthDate" class="form-label">Data di Nascita</label>
+                <input type="date" class="form-control" id="birthDate" name="birthDate" required>
+                <div class="error" id="birthDateError"></div>
+            </div>
+    
+            <!-- email -->
+            <div class="mb-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="email" class="form-control" id="email" name="email" required>
+                <div class="error" id="emailError"></div>
+            </div>
+    
+            <!-- nome utente -->
+            <div class="mb-3">
+                <label for="username" class="form-label">Nome Utente</label>
+                <input type="text" class="form-control" id="username" name="username" required>
+                <div class="error" id="usernameError"></div>
+            </div>
+    
+            <!-- password -->
+            <div class="mb-3">
+                <label for="password" class="form-label">Password</label>
+                <input type="password" class="form-control" id="password" name="password" required>
+                <div class="error" id="passwordError"></div>
+            </div>
+    
+            <button type="submit" class="btn btn-primary">Invia</button>
+        </form>
+        <!-- Visualizza conferma -->
+        <div id="confirmation" class="mt-4" style="display: none;">
+            <h3>Riepilogo Dati</h3>
+            <ul>
+                <li><strong>Nome e Cognome:</strong> <span id="confirmName"></span></li>
+                <li><strong>Data di Nascita:</strong> <span id="confirmBirthDate"></span></li>
+                <li><strong>Email:</strong> <span id="confirmEmail"></span></li>
+                <li><strong>Nome Utente:</strong> <span id="confirmUsername"></span></li>
+            </ul>
+            <button id="confirmBtn" class="btn btn-success">Conferma</button>
+            <button id="editBtn" class="btn btn-warning">Modifica</button>
+        </div>
+    </div>
+
+    <!-- footer -->
+    <footer class="footer">
+        <p>Matteo Angiolillo 4°H © 2025-03-21 Tutti i diritti riservati.</p>
+    </footer>
+
+    <!-- mio script-->
+    <script src="script.js" defer></script> 
+    <!-- Jquery-->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Bootstrap scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+
+</body>
+</html>
