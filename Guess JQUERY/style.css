@@ -1,0 +1,68 @@
+/*  Matteo Angiolillo 4°H 2025-02-28 Html per sito indovina numero con due dadi */
+
+/* Messaggio vittoria */
+
+.win-message {
+    color: green;    
+    background-color: #e0ffe0; 
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid green;
+    border-radius: 5px;
+}
+
+/* Messaggio di sconfitta */
+.lose-message {    
+    background-color: #ffe0e0; /* sfondo rosso chiaro per evidenziare */
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+
+/* Risultato div */
+#risultato {    
+    display: block;
+    text-align: left;
+    font-size: 1.1em;
+    margin-top: 15px;
+}
+
+/* info risultati */
+.result-details {
+    margin-top: 15px;
+    padding-left: 15px;
+    font-size: 1em;
+}
+
+/* Aggiornamnento saldo */
+#balance {    
+    text-align: center;
+    margin-top: 15px;    
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+/* Bottone prestito */
+#btnPrestitoContainer button {
+    font-size: 1.1em;
+    padding: 10px 20px;
+    background-color: #ffcc00; /* Giallo per il prestito */
+    color: black;
+    border: 2px solid #ff9900;
+    border-radius: 5px;
+}
+/* codice footer */
+footer{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    
+}
